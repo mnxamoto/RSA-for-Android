@@ -1,0 +1,4 @@
+OSTvIS_practice02.MainActivity, OSTvIS_practice02;md58cca483d7615c50e6ed4267f2039b610.MainActivity
+OSTvIS_practice02.MainActivity, OSTvIS_practice02, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58cca483d7615c50e6ed4267f2039b610.MainActivity
+OSTvIS_practice02.MainActivity;md58cca483d7615c50e6ed4267f2039b610.MainActivity
+ostvis_practice02.MainActivity;md58cca483d7615c50e6ed4267f2039b610.MainActivity
